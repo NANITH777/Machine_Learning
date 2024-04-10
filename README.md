@@ -1,7 +1,7 @@
 # Machine Learning Algorithms
 
 Welcome to the Machine Learning Algorithms Repository! This repository contains implementations of various machine learning algorithms in Python, along with exercises.
-In this repository, there's Python scripts for a variety of machine learning algorithms, ranging from fundamental techniques like linear regression to more advanced methods such as support vector machines and random forests. Each algorithm is accompanied by exercises designed to help you practice implementing and applying these algorithms in real-world scenarios.
+In this repository, there's Python scripts for a variety of machine learning algorithms, ranging from fundamental techniques like linear regression to more advanced methods such as Bagging and Principal Component Analysis. Each algorithm is accompanied by exercises designed to help you practice implementing and applying these algorithms in real-world scenarios.
 
 <h3 style='color:blue'>Algorithms Included</h3>
 <ul>
